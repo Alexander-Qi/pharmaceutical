@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  27 AUG 2019 20:33
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2019.1.27)  27 AUG 2019 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**exprep.tex
-(./exprep.tex
+**printable.tex
+(./printable.tex
 LaTeX2e <2018-12-01>
 
 (d:/Program Files/texlive2018/texlive/2018/texmf-dist/tex/latex/ctex/ctexbook.c
@@ -1472,22 +1472,6 @@ Package zref Info: New property list: LastPage on input line 55.
 .sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
-(d:/Program Files/texlive2018/texlive/2018/texmf-dist/tex/latex/geometry/geomet
-ry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count318
-\Gm@cntv=\count319
-\c@Gm@tempcnt=\count320
-\Gm@bindingoffset=\dimen311
-\Gm@wd@mp=\dimen312
-\Gm@odd@mp=\dimen313
-\Gm@even@mp=\dimen314
-\Gm@layoutwidth=\dimen315
-\Gm@layoutheight=\dimen316
-\Gm@layouthoffset=\dimen317
-\Gm@layoutvoffset=\dimen318
-\Gm@dimlist=\toks34
-)
 (d:/Program Files/texlive2018/texlive/2018/texmf-dist/tex/latex/minipage-margin
 par/minipage-marginpar.sty
 Invalid UTF-8 byte or sequence at line 19 replaced by U+FFFD.
@@ -1503,14 +1487,14 @@ gure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip69
 \subfigcapskip=\skip70
-\subfigcaptopadj=\dimen319
+\subfigcaptopadj=\dimen311
 \subfigbottomskip=\skip71
-\subfigcapmargin=\dimen320
+\subfigcapmargin=\dimen312
 \subfiglabelskip=\skip72
-\c@subfigure=\count321
-\c@lofdepth=\count322
-\c@subtable=\count323
-\c@lotdepth=\count324
+\c@subfigure=\count318
+\c@lofdepth=\count319
+\c@subtable=\count320
+\c@lotdepth=\count321
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -1520,8 +1504,8 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 gure.cfg)
 \subfig@top=\skip73
 \subfig@bottom=\skip74
-) (./exprep.aux)
-\openout1 = `exprep.aux'.
+) (./printable.aux)
+\openout1 = `printable.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
@@ -1627,14 +1611,14 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 itlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count325
+\c@section@level=\count322
 )
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
- (./exprep.out) (./exprep.out)
+ (./printable.out) (./printable.out)
 \@outlinefile=\write4
-\openout4 = `exprep.out'.
+\openout4 = `printable.out'.
 
 
 (d:/Program Files/texlive2018/texlive/2018/texmf-dist/tex/generic/oberdiek/se-p
@@ -1645,42 +1629,6 @@ File: se-pdfdoc.def 2016/05/16 v1.11 stringenc: PDFDocEncoding
 tf32be.def
 File: se-utf32be.def 2016/05/16 v1.11 stringenc: UTF-32BE
 )
-*geometry* driver: auto-detecting
-*geometry* detected driver: xetex
-*geometry* verbose mode - [ preamble ] result:
-* driver: xetex
-* paper: <default>
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* hratio: 1:1
-* vratio: 1:1
-* modes: twoside 
-* h-part:(L,W,R)=(90.3375pt, 433.62pt, 90.33751pt)
-* v-part:(T,H,B)=(108.405pt, 578.15999pt, 108.405pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=433.62pt
-* \textheight=578.15999pt
-* \oddsidemargin=18.0675pt
-* \evensidemargin=18.06752pt
-* \topmargin=6.06752pt
-* \headheight=12.0pt
-* \headsep=18.06749pt
-* \topskip=10.0pt
-* \footskip=25.29494pt
-* \marginparwidth=48.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumntrue
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
 File: fig/cover2.pdf Graphic file (type pdf)
 <use fig/cover2.pdf>
 File: fig/cover2.pdf Graphic file (type pdf)
@@ -1695,54 +1643,42 @@ File: fig/cover2.pdf Graphic file (type pdf)
 <use fig/cover2.pdf, page 1>
 File: fig/cover2.pdf Graphic file (type pdf)
 <use fig/cover2.pdf, page 1>
-[1
+ [1
 
 
 
 ] [2
 
-] (./exprep.toc
+] [3]
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
+able
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
+63.
+ [4
+
+] (./printable.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.53937> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-)
+ [5])
 \tf@toc=\write5
-\openout5 = `exprep.toc'.
+\openout5 = `printable.toc'.
 
- [3
-
-]
-LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
-able
-(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-65.
- [4
-
-
-]
+ [6]
 第一章
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1859) in paragraph at lines 75--75
+Underfull \hbox (badness 4739) in paragraph at lines 75--75
 []\TU/SimSun(0)/m/n/10.53937 表 \TU/lmr/m/n/10.53937 1.1: []2008-2018 \TU/SimSun
 (0)/m/n/10.53937 年 \TU/lmr/m/n/10.53937 FDA \TU/SimSun(0)/m/n/10.53937 审 核 通 过 
 的
  []
 
-
-Overfull \hbox (3.37167pt too wide) in paragraph at lines 77--101
- [] 
- []
+[1
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
 
 ]
 File: fig/fig1.eps Graphic file (type eps)
@@ -1751,33 +1687,28 @@ File: fig/fig2-2deng.eps Graphic file (type eps)
 <fig/fig2-2deng.eps>
 File: fig/fig3-2deng.eps Graphic file (type eps)
 <fig/fig3-2deng.eps>
+ [2] [3
 
-[2] [3
+] [4
 
 ]
 第二章
 
-Underfull \vbox (badness 1755) has occurred while \output is active []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4
-
-]
-Underfull \vbox (badness 3547) has occurred while \output is active []
-
  [5]
-[6
+Underfull \hbox (badness 1028) in paragraph at lines 145--146
+[]\TU/SimSun(0)/m/n/10.53937 先 声 药 业 的 企 业 宗 旨 是  |“\TU/lmr/m/n/10.53937 Making
+ Better
+ []
+
+[6] [7
+
+] [8
 
 ]
 第三章
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7
-
-]
+[9]
 Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 185 replaced by U+FFFD.
@@ -1790,37 +1721,42 @@ File: fig/flow1.eps Graphic file (type eps)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8]
-[9] [10]
+ [10]
+[11] [12]
 File: fig/fig4.eps Graphic file (type eps)
 <fig/fig4.eps>
- [11]
+
+Underfull \vbox (badness 1874) has occurred while \output is active []
+
+ [13]
 File: fig/fig5.png Graphic file (type bmp)
 <fig/fig5.png>
- [12]
 File: fig/fig6.png Graphic file (type bmp)
 <fig/fig6.png>
-File: fig/fig7.png Graphic file (type bmp)
-<fig/fig7.png>
- [13]
+
+[14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-[15]
-Underfull \vbox (badness 1838) has occurred while \output is active []
+File: fig/fig7.png Graphic file (type bmp)
+<fig/fig7.png>
+ [15]
+[16] [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-[17
+ [18]
+[19
 
-] (./exprep.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
-[]\TU/lmr/m/n/10.53937 Adams, B. (2019).  The top 10 pharma r & d budgets in 20
-18.
+] [20
+
+
+] (./printable.bbl
+Underfull \hbox (badness 1275) in paragraph at lines 67--71
+[]\TU/SimSun(0)/m/n/10.53937 中 国 产 业 信 息 网 \TU/lmr/m/n/10.53937 (2017).  2017 \
+TU/SimSun(0)/m/n/10.53937 年 中 国 创 新 药 行 业 发 展 现 状 分 析 及 未 来 发 展 前 景 预 测\TU/lmr/
+m/n/10.53937 .
  []
 
-[18
-
-
+[21
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 73--76
@@ -1836,25 +1772,18 @@ n/10.53937 市 场 规 模 预 测 分 析\TU/lmr/m/n/10.53937 .
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 83--86
+Underfull \hbox (badness 5388) in paragraph at lines 83--86
 []\TU/SimSun(0)/m/n/10.53937 中 国 产 业 信 息 网 \TU/lmr/m/n/10.53937 (2018c).  2018 
 \TU/SimSun(0)/m/n/10.53937 年 中 国 仿 制 药 行 业 现 状 及 行 业 发 展 趋 势 分 析\TU/lmr/m/n/10.
 53937 .
  []
 
+[22]) [23] [24
 
-Overfull \hbox (1.82443pt too wide) in paragraph at lines 134--137
-[]\TU/SimSun(0)/m/n/10.53937 北 京 福 元 医 药 股 份 有 限 公 司 \TU/lmr/m/n/10.53937 (2019
-).  \TU/SimSun(0)/m/n/10.53937 关 于 福 元\TU/lmr/m/n/10.53937 .  \TU/lmr/m/it/10.5
-3937 http://www.wansheng.com.cn/about.aspx?id=22\TU/lmr/m/n/10.53937 . 
- []
+] (./data/afterword.tex [25] [26] [27] [28]) [29] [30
 
-[19]) [20] (./data/afterword.tex [21
-
-] [22] [23] [24]) [25] [26
-
-] [27] [28]
-[29] [30] (./data/pics.tex
+] [31]
+[32] [33] [34] [35] (./data/pics.tex
 File: fig/image1.jpg Graphic file (type bmp)
 <fig/image1.jpg>
 File: fig/image2.jpg Graphic file (type bmp)
@@ -1879,25 +1808,30 @@ File: fig/image11.jpg Graphic file (type bmp)
 <fig/image11.jpg>
 File: fig/image12.jpg Graphic file (type bmp)
 <fig/image12.jpg>
-) [31] [32] [33] [34] [35]
+) [36] [37] [38] [39] [40]
+Package atenddvi Info: Last page = 47.
+ [41]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 478.
-Package atenddvi Info: Last page = 40.
- [36]
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 478.
- (./exprep.aux)
+
+(./printable.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 478.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 478.
-Package rerunfilecheck Info: File `exprep.out' has not changed.
+Package rerunfilecheck Info: File `printable.out' has not changed.
 (rerunfilecheck)             Checksum: 8F9ED21049AE5E9A4B349832B5B323D8.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 478.
  ) 
 Here is how much of TeX's memory you used:
- 37530 strings out of 492933
- 800199 string characters out of 6125513
- 854319 words of memory out of 5000000
- 41014 multiletter control sequences out of 15000+600000
+ 37088 strings out of 492933
+ 793775 string characters out of 6125513
+ 840322 words of memory out of 5000000
+ 40575 multiletter control sequences out of 15000+600000
  533960 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 62i,18n,68p,754b,33186s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,18n,68p,757b,33192s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on exprep.pdf (40 pages).
+Output written on printable.pdf (47 pages).

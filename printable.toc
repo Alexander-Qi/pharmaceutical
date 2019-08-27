@@ -1,0 +1,44 @@
+\contentsline {chapter}{摘要}{iii}{chapter*.1}% 
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}制药行业现状}{1}{chapter.1}% 
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}企业介绍}{5}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}北京福元药业有限责任公司}{5}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}江苏先声药业有限公司}{6}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}上海合全药业股份有限公司}{6}{section.2.3}% 
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}调研成果}{9}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}药物研发}{9}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}仿制药}{9}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}自主研发}{10}{subsection.3.1.2}% 
+\contentsline {section}{\numberline {3.2}合作}{11}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}与高校或研究所}{12}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}与企业合作}{12}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}CMO/CDMO}{13}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.3}政策}{14}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}理论分析}{14}{subsection.3.3.1}% 
+\contentsline {subsubsection}{宏观政策}{14}{subsubsection*.3}% 
+\contentsline {subsubsection}{企业的生产成本}{15}{subsubsection*.4}% 
+\contentsline {subsubsection}{企业的决策}{15}{subsubsection*.5}% 
+\contentsline {subsection}{\numberline {3.3.2}宏观政策}{16}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}创新药的支持政策}{17}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}仿制药的支持政策}{17}{subsection.3.3.4}% 
+\contentsline {section}{\numberline {3.4}其他}{18}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}总结}{19}{section.3.5}% 
+\contentsline {chapter}{调研感想}{25}{chapter*.7}% 
+\contentsline {paragraph}{关于前期调研}{26}{paragraph*.10}% 
+\contentsline {paragraph}{关于调研过程中}{26}{paragraph*.11}% 
+\contentsline {paragraph}{关于调研结果}{26}{paragraph*.12}% 
+\contentsline {chapter}{附录}{31}{chapter*.16}% 
+\contentsline {paragraph}{问题1}{31}{paragraph*.21}% 
+\contentsline {paragraph}{问题2}{31}{paragraph*.22}% 
+\contentsline {paragraph}{问题3}{31}{paragraph*.23}% 
+\contentsline {paragraph}{问题4}{32}{paragraph*.24}% 
+\contentsline {paragraph}{问题1}{32}{paragraph*.28}% 
+\contentsline {paragraph}{问题2}{32}{paragraph*.29}% 
+\contentsline {paragraph}{问题3}{33}{paragraph*.30}% 
+\contentsline {paragraph}{问题4}{33}{paragraph*.31}% 
+\contentsline {paragraph}{问题5}{33}{paragraph*.32}% 
+\contentsline {paragraph}{问题1}{34}{paragraph*.36}% 
+\contentsline {paragraph}{问题2}{34}{paragraph*.37}% 
+\contentsline {paragraph}{问题3}{34}{paragraph*.38}% 
+\contentsline {paragraph}{问题4}{35}{paragraph*.39}% 
+\contentsline {paragraph}{问题5}{35}{paragraph*.40}% 
+\contentsline {paragraph}{问题6}{35}{paragraph*.41}% 

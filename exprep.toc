@@ -3,42 +3,42 @@
 \contentsline {chapter}{\numberline {第二章\hspace {.3em}}企业介绍}{4}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}北京福元药业有限责任公司}{4}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}江苏先声药业有限公司}{5}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}上海合全药业股份有限公司}{6}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}上海合全药业股份有限公司}{5}{section.2.3}% 
 \contentsline {chapter}{\numberline {第三章\hspace {.3em}}调研成果}{7}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}药物研发}{7}{section.3.1}% 
 \contentsline {subsection}{\numberline {3.1.1}仿制药}{7}{subsection.3.1.1}% 
 \contentsline {subsection}{\numberline {3.1.2}自主研发}{8}{subsection.3.1.2}% 
-\contentsline {section}{\numberline {3.2}合作}{10}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}合作}{9}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}与高校或研究所}{10}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}与企业合作}{11}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.2}与企业合作}{10}{subsection.3.2.2}% 
 \contentsline {subsection}{\numberline {3.2.3}CMO/CDMO}{11}{subsection.3.2.3}% 
-\contentsline {section}{\numberline {3.3}政策}{13}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}理论分析}{13}{subsection.3.3.1}% 
-\contentsline {subsubsection}{宏观政策}{13}{subsubsection*.3}% 
-\contentsline {subsubsection}{企业的生产成本}{14}{subsubsection*.4}% 
+\contentsline {section}{\numberline {3.3}政策}{12}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}理论分析}{12}{subsection.3.3.1}% 
+\contentsline {subsubsection}{宏观政策}{12}{subsubsection*.3}% 
+\contentsline {subsubsection}{企业的生产成本}{13}{subsubsection*.4}% 
 \contentsline {subsubsection}{企业的决策}{14}{subsubsection*.5}% 
-\contentsline {subsection}{\numberline {3.3.2}宏观政策}{15}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}创新药的支持政策}{16}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3.3.4}仿制药的支持政策}{16}{subsection.3.3.4}% 
-\contentsline {section}{\numberline {3.4}其他}{17}{section.3.4}% 
-\contentsline {section}{\numberline {3.5}总结}{18}{section.3.5}% 
-\contentsline {chapter}{调研感想}{23}{chapter*.7}% 
-\contentsline {paragraph}{关于前期调研}{24}{paragraph*.10}% 
-\contentsline {paragraph}{关于调研过程中}{24}{paragraph*.11}% 
-\contentsline {paragraph}{关于调研结果}{25}{paragraph*.12}% 
-\contentsline {chapter}{附录}{28}{chapter*.16}% 
-\contentsline {paragraph}{问题1}{28}{paragraph*.21}% 
-\contentsline {paragraph}{问题2}{28}{paragraph*.22}% 
-\contentsline {paragraph}{问题3}{29}{paragraph*.23}% 
-\contentsline {paragraph}{问题4}{29}{paragraph*.24}% 
-\contentsline {paragraph}{问题1}{29}{paragraph*.28}% 
-\contentsline {paragraph}{问题2}{30}{paragraph*.29}% 
-\contentsline {paragraph}{问题3}{30}{paragraph*.30}% 
-\contentsline {paragraph}{问题4}{30}{paragraph*.31}% 
-\contentsline {paragraph}{问题5}{30}{paragraph*.32}% 
-\contentsline {paragraph}{问题1}{31}{paragraph*.36}% 
-\contentsline {paragraph}{问题2}{32}{paragraph*.37}% 
-\contentsline {paragraph}{问题3}{32}{paragraph*.38}% 
-\contentsline {paragraph}{问题4}{32}{paragraph*.39}% 
-\contentsline {paragraph}{问题5}{32}{paragraph*.40}% 
-\contentsline {paragraph}{问题6}{33}{paragraph*.41}% 
+\contentsline {subsection}{\numberline {3.3.2}宏观政策}{14}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}创新药的支持政策}{15}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}仿制药的支持政策}{15}{subsection.3.3.4}% 
+\contentsline {section}{\numberline {3.4}其他}{16}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}总结}{17}{section.3.5}% 
+\contentsline {chapter}{调研感想}{21}{chapter*.7}% 
+\contentsline {paragraph}{关于前期调研}{22}{paragraph*.10}% 
+\contentsline {paragraph}{关于调研过程中}{22}{paragraph*.11}% 
+\contentsline {paragraph}{关于调研结果}{22}{paragraph*.12}% 
+\contentsline {chapter}{附录}{26}{chapter*.16}% 
+\contentsline {paragraph}{问题1}{26}{paragraph*.21}% 
+\contentsline {paragraph}{问题2}{26}{paragraph*.22}% 
+\contentsline {paragraph}{问题3}{26}{paragraph*.23}% 
+\contentsline {paragraph}{问题4}{27}{paragraph*.24}% 
+\contentsline {paragraph}{问题1}{27}{paragraph*.28}% 
+\contentsline {paragraph}{问题2}{27}{paragraph*.29}% 
+\contentsline {paragraph}{问题3}{28}{paragraph*.30}% 
+\contentsline {paragraph}{问题4}{28}{paragraph*.31}% 
+\contentsline {paragraph}{问题5}{28}{paragraph*.32}% 
+\contentsline {paragraph}{问题1}{29}{paragraph*.36}% 
+\contentsline {paragraph}{问题2}{29}{paragraph*.37}% 
+\contentsline {paragraph}{问题3}{29}{paragraph*.38}% 
+\contentsline {paragraph}{问题4}{30}{paragraph*.39}% 
+\contentsline {paragraph}{问题5}{30}{paragraph*.40}% 
+\contentsline {paragraph}{问题6}{30}{paragraph*.41}% 
